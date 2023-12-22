@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">T-Rec</string>
+    <string name="let_s_start">Let\'s Start your\n<b>Vacation!</b></string>
+    <string name="btn_started">Get Started</string>
+    <string name="lokasi_destinasi">Lokasi Destinasi</string>
+    <string name="nama_destinasi">Nama Destinasi</string>
+    <string name="htm_destinasi">HTM</string>
+    <string name="deskripsi_destinasi">Deskripsi</string>
+    <string name="btn_back">back</string>
+    <string name="tv_home">Where do you\nlike to go?</string>
+    <string name="destination_image">Destination Image</string>
+    <string name="favourite_still_empty">Favourite still empty</string>
+    <string name="nlp_search">NLP Search</string>
+    <string name="filter_icon">Filter icon</string>
+    <string name="search_hint">Search here. . .</string>
+</resources>
